@@ -1,2 +1,5 @@
 # Fundamentos_javascript
-#### Intr ao javascript
+#### Introdução ao javascript
+
+###### condição simples
+###### condição composta
